@@ -1,4 +1,4 @@
-![My cover](/Claudia_Italiani.png)
+![cover](cover.png)
 
 <!--
 **claudiastem/claudiastem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
